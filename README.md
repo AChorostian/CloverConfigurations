@@ -6,7 +6,7 @@ CPU: Intel Core i5 6200U
 GPU: Intel HD Graphics 520
 MEMORY: 4GB+2GB DDR4 2133Mhz
 
-####what is working?
+#### what is working?
 
 * gpu acceleration
 * hdmi, vga
@@ -15,7 +15,7 @@ MEMORY: 4GB+2GB DDR4 2133Mhz
 * audio
 * keyboard and touchpad
 
-####what is not working?
+#### what is not working?
 
 * WLAN
 * battery status
