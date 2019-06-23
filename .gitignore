@@ -1,0 +1,4 @@
+*.DS_Store
+README.tex
+README.pdf
+.texpadtmp/*
